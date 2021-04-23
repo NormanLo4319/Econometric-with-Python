@@ -1,6 +1,6 @@
 # Econometric with Python:
 
-This repository introduces the popular, powerful, and free programming language and software pacakge *Python* with a focus on the implementation of standard tools and methods used in *economometric* models and methods. It builes on the excellent and popular econometric textbook **Introductory Econometrics A Modern Approach** by **Jeffrey M. Wooldridge**. 
+This repository introduces the popular, powerful, and free programming language and software pacakge *Python* with a focus on the implementation of standard tools and methods used in *economometric* models and methods. It builds on the excellent and popular econometric textbook **Introductory Econometrics A Modern Approach** by **Jeffrey M. Wooldridge**. 
 
 ## Content:
 1. Introduction to Python
