@@ -7,10 +7,11 @@ This repository introduces the popular, powerful, and free programming language 
 2. Basic Statistic with NumPy and SciPy
 3. Simple Linear Regression Analysis
 4. Multiple Linear Regression Analysis
-5. Inference in Small Samples and Asymptotics
-6. Heteroscedasticity
-7. Pooled Cross-Sections and Panel Data Analysis
-8. Instrumental Variable (IV) and Two-Stage Least Squares
+5. Regression Inference and OLS Asymptotics
+6. Multiple Regression Analysis: Further Issues
+7. Heteroscedasticity
+8. Pooled Cross-Sections and Panel Data Analysis
+9. Instrumental Variable (IV) and Two-Stage Least Squares
 
 Resources:
 - [Using Python for Introductory Econometrics](https://www.amazon.com/dp/B08924H17Y)
