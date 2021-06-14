@@ -10,8 +10,6 @@ This repository introduces the popular, powerful, and free programming language 
 5. Regression Inference and OLS Asymptotics
 6. Multiple Regression Analysis: Further Issues
 7. Heteroscedasticity
-8. Pooled Cross-Sections and Panel Data Analysis
-9. Instrumental Variable (IV) and Two-Stage Least Squares
 
 Resources:
 - [Using Python for Introductory Econometrics](https://www.amazon.com/dp/B08924H17Y)
